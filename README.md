@@ -21,7 +21,6 @@ Commencez par optimiser tout ce qui est relatif à l'import des assets:
 - le code CSS
 - les libriares JavaScript et CSS (vérifiez également lesquelles sont utilisées ou non)
 - le code JavaScript
-- les fonts
 
 ## Etape 3
 
@@ -30,7 +29,7 @@ Modifier la structure HTML pour qu'elle fasse plus de sens sémantiquement et so
 - Pensez aux textes alternatifs pour les images
 - Réfléchissez à la hiérarchie du contenu, notamment des titres
 - Pensez à utiliser des balises sémantiques lorsque c'est possible (par ex. header, footer, main, label, etc.)
-- Utilisez l'attribut "lazy Loading" pour les images lorsque c'est pertinent ([documentation](https://developer.mozilla.org/fr/docs/Web/Performance/Lazy_loading))
+- Utilisez l'attribut "Loading" pour les images lorsque c'est pertinent ([documentation](https://developer.mozilla.org/fr/docs/Web/Performance/Lazy_loading))
 
 ## Etape 4
 
